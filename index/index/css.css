@@ -1,0 +1,53 @@
+/* меню і банер */
+nav{
+    background-color: #abd6da;
+    font-size: 1.3rem;
+}
+.logo{
+    padding-top: 6rem;
+    background-image: url(black-on-white_2.jpg);
+    height:400px;
+    background-size: cover;
+    text-align: center;
+}
+.logo>h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 254, 254);
+    font-style: italic;/*курсив*/
+    font-size: 4.5rem;
+   
+}
+
+.left-text{
+    background-color: #a6d2d5;
+    padding: 2rem;
+    font-family: 'Yeseva One', cursive;
+}
+.coladge{
+    background-image: url(collage.jpg);
+    background-size: cover;
+    padding: 3rem;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.coladge>blockquote{
+    background-color: rgba(255, 255, 255, 0.712) ;
+}
+
+/* списки */
+.why{
+     background-image: url(mramor.jpg);
+    background-size: cover;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.why h2{
+    padding-top: 10rem;
+}
+.why li{
+    background-color: rgba(133, 30, 30, 0.644);
+    color: white;
+    font-size: 1rem;
+    font-family: 'Comfortaa', cursive;
+}
+
